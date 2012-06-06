@@ -1,0 +1,10 @@
+Developed in 2010.
+
+This application is developed to impement the logic of a simple Minesweeper game with 10 X 10 grids.
+
+Minesweeper Class contains code to handle the game logic.
+Test class contains code to handle the UI part.
+
+In order to run the application, double click the "Play.bat".
+
+Please take a look at the screen shots. If you have any queries please contact me at ananth1220@gmail.com
